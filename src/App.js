@@ -13,7 +13,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>http cats</h2>
         </div>
-        <HttpCat />
+        <HttpCat status="200" />
       </div>
     );
   }
