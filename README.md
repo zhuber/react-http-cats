@@ -1,4 +1,4 @@
-# http cats [![Build Status](https://travis-ci.org/zhuber/react-http-cats.svg)](https://travis-ci.org/zhuber/react-http-cats) [![npm version](https://badge.fury.io/js/react-http-cats)](http://badge.fury.io/js/react-http-cats)
+# http cats [![npm version](https://badge.fury.io/js/react-http-cats.svg)](http://badge.fury.io/js/react-http-cats)
 
 <img src="https://http.cat/200" />
 
